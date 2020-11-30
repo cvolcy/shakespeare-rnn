@@ -1,0 +1,3 @@
+{
+    "python.pythonPath": "${env:PYTHON_ENVS}\\dev\\python.exe"
+}
